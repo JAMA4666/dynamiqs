@@ -13,6 +13,7 @@ import mkdocs_gen_files
 doc_sections = {
     'integrators': (['dynamiqs/integrators/'], 'dq'),
     'qarrays/qarray': (['dynamiqs/qarrays/qarray.py'], 'dq'),
+    'qarrays/composite_qarray': (['dynamiqs/qarrays/composite_qarray.py'], 'dq'),
     'time_qarray': (['dynamiqs/time_qarray.py'], 'dq'),
     'method': (['dynamiqs/method.py'], 'dq.method'),
     'gradient': (['dynamiqs/gradient.py'], 'dq.gradient'),

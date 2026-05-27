@@ -170,6 +170,9 @@ nav:
               - pwc: python_api/time_qarray/pwc.md
               - modulated: python_api/time_qarray/modulated.md
               - timecallable: python_api/time_qarray/timecallable.md
+          - Composite qarrays:
+              - CompositeTerm: python_api/qarrays/composite_qarray/CompositeTerm.md
+              - CompositeQArray: python_api/qarrays/composite_qarray/CompositeQArray.md
           - Methods (dq.method):
               - Tsit5: python_api/method/Tsit5.md
               - Dopri5: python_api/method/Dopri5.md

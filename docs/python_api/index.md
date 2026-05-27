@@ -53,6 +53,16 @@ The **Dynamiqs** Python API features two main types of functions: solvers of dif
         - modulated
         - timecallable
 
+### Composite qarrays
+
+::: dynamiqs.qarrays.composite_qarray
+    options:
+        extra:
+            table: true
+        members:
+        - CompositeTerm
+        - CompositeQArray
+
 ### Methods (dq.method)
 
 ::: dynamiqs.method
